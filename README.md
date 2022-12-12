@@ -35,7 +35,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-
+- [Using Square for your In-Home Business | Square Appointments | Mastering Square](https://www.youtube.com/watch?v=ClP4umr9dfI)
+- [Are you a food business looking to expand?](https://www.youtube.com/watch?v=axIuFmk8pPM)
+- [Howto Use Square Gift Cards | 2022 Tutorial | Mastering Square](https://www.youtube.com/watch?v=tqD2qlnNa9Y)
+- [How to use Square Invoicing | Mastering Square](https://www.youtube.com/watch?v=k1R52nqI9LM)
+- [How to use Square marketing| Mastering Square](https://www.youtube.com/watch?v=zZ0cFrTGAXU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
