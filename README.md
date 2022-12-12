@@ -54,7 +54,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jesstechpreneur)](https://git.io/streak-stats)
 
 ### Connect with me
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/GitHub.svg" />]
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/Github.svg" />]
 
 <!--
 
