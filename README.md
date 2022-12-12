@@ -31,7 +31,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-
+- [How to use Square Invoicing | Mastering Square](https://nontechieentrepreneur.com/blog/how-to-use-square-invoicing/)
+- [How to Use Square Marketing](https://nontechieentrepreneur.com/blog/how-to-use-square-marketing/)
+- [How to use Square Gift Cards](https://nontechieentrepreneur.com/blog/how-to-use-square-gift-cards/)
+- [How To Use Square Appointments](https://nontechieentrepreneur.com/blog/how-to-use-square-appointments/)
+- [How to Use Square Customers](https://nontechieentrepreneur.com/blog/how-to-use-square-customers/)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
