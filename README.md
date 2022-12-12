@@ -5,6 +5,8 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goal: Contribute to more Open Source projects
 
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCkD5NNLTY8BM0fnAQxAjyJA?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
+
 ### Lanugauges and Tools
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
@@ -27,7 +29,7 @@
 
 <br />
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCkD5NNLTY8BM0fnAQxAjyJA?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
+## I create resources for Non-Techie Entrepreneurs
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -37,6 +39,13 @@
 - [How To Use Square Appointments](https://nontechieentrepreneur.com/blog/how-to-use-square-appointments/)
 - [How to Use Square Customers](https://nontechieentrepreneur.com/blog/how-to-use-square-customers/)
 <!-- BLOG-POST-LIST:END -->
+
+### 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://youtube.com/jesstechpreneur)
 
 <br />
 
