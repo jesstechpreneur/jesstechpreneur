@@ -1,23 +1,15 @@
 ### Hi there 👋 My name is Jess! I am a [self- taught developer][website]
 
 - 🔭 I’m currently working on Wordpress Plugins
-- 🌱 I’m currently learning Tailwind CSS
+- 🌱 I’m currently learning [Tailwind CSS][Tailwind]
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goal: Contribute to more Open Source projects
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCkD5NNLTY8BM0fnAQxAjyJA?logo=youtube&logoColor=red&style=for-the-badge)][youtube] ![Twitter Follow](https://img.shields.io/twitter/follow/jesstechpreneur?color=%231DA1F2&logo=twitter&style=for-the-badge)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCkD5NNLTY8BM0fnAQxAjyJA?logo=youtube&logoColor=red&style=for-the-badge)][youtube] 
+[![Twitter Follow](https://img.shields.io/twitter/follow/jesstechpreneur?color=%231DA1F2&logo=twitter&style=for-the-badge)]
 
 ### Lanugauges and Tools
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
+[![Wordpress]](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)]
 
 
 ## I create resources for Non-Techie Entrepreneurs
@@ -70,4 +62,5 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/jesstechpreneur
 [facebook]: https://facebook.com/jesstechpreneur 
 [blog]: https://nontechieentrepreneur.com/blog
+[tailwind]: https://tailwindcss.com/
 
