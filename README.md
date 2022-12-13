@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goal: Contribute to more Open Source projects
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCkD5NNLTY8BM0fnAQxAjyJA?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCkD5NNLTY8BM0fnAQxAjyJA?logo=youtube&logoColor=red&style=for-the-badge)][youtube] ![Twitter Follow](https://img.shields.io/twitter/follow/jesstechpreneur?color=%231DA1F2&logo=twitter&style=for-the-badge)
 
 ### Lanugauges and Tools
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
