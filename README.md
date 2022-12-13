@@ -38,9 +38,12 @@
 ## I create resources for Non-Techie Entrepreneurs
 
 ### I teach on:
-[ ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)] [ud]
 
-[![Skill Share](https://img.shields.io/badge/Skill%20share-002333?style=for-the-badge&logo=skillshare&logoColor=00FF84) [skillshare]
+[ ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) ] [ud]
+
+
+
+[ ![Skill Share](https://img.shields.io/badge/Skill%20share-002333?style=for-the-badge&logo=skillshare&logoColor=00FF84) ] [skillshare]
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
