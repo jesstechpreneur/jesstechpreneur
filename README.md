@@ -6,10 +6,10 @@
 - 🥅 2023 Goal: Contribute to more Open Source projects
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCkD5NNLTY8BM0fnAQxAjyJA?logo=youtube&logoColor=red&style=for-the-badge)][youtube] 
-[![Twitter Follow](https://img.shields.io/twitter/follow/jesstechpreneur?color=%231DA1F2&logo=twitter&style=for-the-badge)]
+![Twitter Follow](https://img.shields.io/twitter/follow/jesstechpreneur?color=%231DA1F2&logo=twitter&style=for-the-badge)
 
 ### Lanugauges and Tools
-[![Wordpress]](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)]
+![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 
 ## I create resources for Non-Techie Entrepreneurs
