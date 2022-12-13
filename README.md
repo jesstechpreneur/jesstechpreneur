@@ -38,8 +38,9 @@
 ## I create resources for Non-Techie Entrepreneurs
 
 ### I teach on:
-[![Udemy]](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)] [udemy]
-[![Skill Share]](https://img.shields.io/badge/Skill%20share-002333?style=for-the-badge&logo=skillshare&logoColor=00FF84) [skillshare]
+[ ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)] [ud]
+
+[![Skill Share](https://img.shields.io/badge/Skill%20share-002333?style=for-the-badge&logo=skillshare&logoColor=00FF84) [skillshare]
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -70,19 +71,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jesstechpreneur)](https://git.io/streak-stats)
 
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 [website]: https://jesstechpreneur.com
 [youtube]: https://www.youtube.com/channel/UCkD5NNLTY8BM0fnAQxAjyJA
@@ -91,6 +79,6 @@ Here are some ideas to get you started:
 [blog]: https://nontechieentrepreneur.com/blog
 [tailwind]: https://tailwindcss.com/
 [coffee]: https://www.buymeacoffee.com/jesstech
-[udemy]: https://www.udemy.com/user/jess-lee-11/
+[ud]: https://www.udemy.com/user/jess-lee-11/
 [skillshare]: https://www.skillshare.com/en/r/user/jesstech?gr_tch_ref=on&gr_trp=on
 
