@@ -33,7 +33,9 @@
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
 
-
+## Current Open Source Projects
+[![Open Source Helpers](https://www.codetriage.com/twitter/bootstrap/badges/users.svg)](https://www.codetriage.com/twitter/bootstrap)
+[![Open Source Helpers](https://www.codetriage.com/yoast/wordpress-seo/badges/users.svg)](https://www.codetriage.com/yoast/wordpress-seo)
 
 ### I create resources for Non-Techie Entrepreneurs
 
