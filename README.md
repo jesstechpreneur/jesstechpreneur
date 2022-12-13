@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning [Tailwind CSS][Tailwind]
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goal: Contribute to more Open Source projects
-- I love coffee! ![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black) [coffee]
-- Fav Gaming System: ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
+- ☕ I love coffee! [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)][coffee]
+- ⚡ Fav Gaming System: ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCkD5NNLTY8BM0fnAQxAjyJA?logo=youtube&logoColor=red&style=for-the-badge)][youtube] 
 ![Twitter Follow](https://img.shields.io/twitter/follow/jesstechpreneur?color=%231DA1F2&logo=twitter&style=for-the-badge)
@@ -36,8 +36,8 @@
 ## I create resources for Non-Techie Entrepreneurs
 
 ### I teach on:
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-![Skill Share](https://img.shields.io/badge/Skill%20share-002333?style=for-the-badge&logo=skillshare&logoColor=00FF84)
+[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)] [udemy]
+[![Skill Share](https://img.shields.io/badge/Skill%20share-002333?style=for-the-badge&logo=skillshare&logoColor=00FF84)] [skillshare]
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -89,4 +89,6 @@ Here are some ideas to get you started:
 [blog]: https://nontechieentrepreneur.com/blog
 [tailwind]: https://tailwindcss.com/
 [coffee]: https://www.buymeacoffee.com/jesstech
+[udemy]: https://www.udemy.com/user/jess-lee-11/
+[skillshare]: https://www.skillshare.com/en/r/user/jesstech?gr_tch_ref=on&gr_trp=on
 
