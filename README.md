@@ -56,11 +56,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [What questions your analytics answer | #analytics](https://www.youtube.com/watch?v=JTTkHn6NPr4)
 - [Keep Going, Don’t Quit](https://www.youtube.com/watch?v=kn3P_NXR8zE)
 - [How to add Team Members to Square | Mastering Square](https://www.youtube.com/watch?v=1GkqMFy-Hzw)
 - [Using Square for your In-Home Business | Square Appointments | Mastering Square](https://www.youtube.com/watch?v=ClP4umr9dfI)
 - [Are you a food business looking to expand?](https://www.youtube.com/watch?v=axIuFmk8pPM)
-- [Howto Use Square Gift Cards | 2022 Tutorial | Mastering Square](https://www.youtube.com/watch?v=tqD2qlnNa9Y)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
