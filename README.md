@@ -56,11 +56,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Thank you God for being the provider of my life 👏🏽](https://www.youtube.com/watch?v=INw0KV79PDk)
 - [Work with me 💻 February events for the Non-techie entrepreneur community #wordpress](https://www.youtube.com/watch?v=I2jdrqr4o8A)
 - [What questions your analytics answer | #analytics](https://www.youtube.com/watch?v=JTTkHn6NPr4)
 - [Keep Going, Don’t Quit](https://www.youtube.com/watch?v=kn3P_NXR8zE)
 - [How to add Team Members to Square | Mastering Square](https://www.youtube.com/watch?v=1GkqMFy-Hzw)
-- [Using Square for your In-Home Business | Square Appointments | Mastering Square](https://www.youtube.com/watch?v=ClP4umr9dfI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
