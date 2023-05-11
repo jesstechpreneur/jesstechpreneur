@@ -56,11 +56,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Setting up my code environment for starting my #100daysofcode 😮‍💨](https://www.youtube.com/watch?v=Y9H1dj3ozKI)
 - [Day 1 of Doing what God told me to do: Listing the products that I have kept hidden due to fear](https://www.youtube.com/watch?v=QQpxGYLwqtA)
 - [Tools for Busy Business owners](https://www.youtube.com/watch?v=glDhUdiDEko)
 - [Mondays are for starting](https://www.youtube.com/watch?v=PvhoSLQSUNI)
 - [Are you a beauty service provider? | Square for Beauty service providers](https://www.youtube.com/watch?v=pMA0KxkOwoo)
-- [Trusting is hard in a world that is full of betrayal but I will trust you](https://www.youtube.com/watch?v=vTAgRt8z0pQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
