@@ -56,11 +56,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [New Feature Alert for Square users: Pre-Order for Items](https://www.youtube.com/watch?v=LoigP3Uds-A)
 - [Day 4 But 😩😭](https://www.youtube.com/watch?v=Rzx1dU2zRro)
 - [Work with me ❤️ Day 3 of doing what God told me to do](https://www.youtube.com/watch?v=Zt0MU70DSg4)
 - [Setting up my code environment for starting my #100daysofcode 😮‍💨](https://www.youtube.com/watch?v=Y9H1dj3ozKI)
 - [Day 1 of Doing what God told me to do: Listing the products that I have kept hidden due to fear](https://www.youtube.com/watch?v=QQpxGYLwqtA)
-- [Tools for Busy Business owners](https://www.youtube.com/watch?v=glDhUdiDEko)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
