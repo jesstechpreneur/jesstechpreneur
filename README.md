@@ -47,7 +47,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [How to add cash payments to Square Invoices |Mastering Square](https://www.youtube.com/watch?v=6H7-D85Va1M)
+- [How to add cash payments to Square Invoices  |Mastering Square](https://www.youtube.com/watch?v=6H7-D85Va1M)
 - [Day 5 🙂 this idea has been sitting in my mind for a while and now it’s done](https://www.youtube.com/watch?v=tigSuQ3ihGM)
 - [New Feature Alert for Square users: Pre-Order for Items](https://www.youtube.com/watch?v=LoigP3Uds-A)
 - [Day 4 But 😩😭](https://www.youtube.com/watch?v=Rzx1dU2zRro)
