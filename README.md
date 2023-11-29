@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [New #square feature: Automatic discounts](https://www.youtube.com/watch?v=jKt95TplkjI)
 - [How to add cash payments to Square Invoices  |Mastering Square](https://www.youtube.com/watch?v=6H7-D85Va1M)
 - [Day 5 🙂 this idea has been sitting in my mind for a while and now it’s done](https://www.youtube.com/watch?v=tigSuQ3ihGM)
 - [New Feature Alert for Square users: Pre-Order for Items](https://www.youtube.com/watch?v=LoigP3Uds-A)
 - [Day 4 But 😩😭](https://www.youtube.com/watch?v=Rzx1dU2zRro)
-- [Work with me ❤️ Day 3 of doing what God told me to do](https://www.youtube.com/watch?v=Zt0MU70DSg4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
