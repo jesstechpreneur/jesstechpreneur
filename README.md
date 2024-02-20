@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to Sell Pre-Orders on Shopify  | Maximizing Shopify](https://www.youtube.com/watch?v=gx6Y2Vui-v0)
 - [How to create Square Automatic Discounts | Mastering Square | Tutorial for Square Discounts](https://www.youtube.com/watch?v=Vo51RWlkU68)
 - [New #square feature: Automatic discounts | Mastering Square](https://www.youtube.com/watch?v=jKt95TplkjI)
 - [How to add cash payments to Square Invoices  |Mastering Square](https://www.youtube.com/watch?v=6H7-D85Va1M)
 - [Day 5 🙂 this idea has been sitting in my mind for a while and now it’s done](https://www.youtube.com/watch?v=tigSuQ3ihGM)
-- [New Feature Alert for Square users: Pre-Order for Items](https://www.youtube.com/watch?v=LoigP3Uds-A)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
