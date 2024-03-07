@@ -47,7 +47,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Shopify 101 Masterclass | Non-Techie Help](https://www.youtube.com/watch?v=SNTHoccYzV4)
+- [Learning the Shopify Platform | FREE Masterclass | Non-Techie Help](https://www.youtube.com/watch?v=SNTHoccYzV4)
 - [Shopify Pre-Orders Simplified: Launch with Confidence | Maximizing Shopify](https://www.youtube.com/watch?v=gx6Y2Vui-v0)
 - [How to create Square Automatic Discounts | Mastering Square | Tutorial for Square Discounts](https://www.youtube.com/watch?v=Vo51RWlkU68)
 - [New #square feature: Automatic discounts | Mastering Square](https://www.youtube.com/watch?v=jKt95TplkjI)
