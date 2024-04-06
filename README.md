@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to add a TERMS AND CONDITIONS Checkbox to Shopify Checkout](https://www.youtube.com/watch?v=OgqA56QJ-I0)
 - [How to add Customer Created PRODUCT BUNDLES to your Shopify Store | Shopify Help](https://www.youtube.com/watch?v=GZbz3S6N0nU)
 - [Learning the Shopify Platform | FREE Masterclass | Non-Techie Help](https://www.youtube.com/watch?v=SNTHoccYzV4)
 - [Shopify Pre-Orders Simplified: Launch with Confidence | Maximizing Shopify](https://www.youtube.com/watch?v=gx6Y2Vui-v0)
 - [How to create Square Automatic Discounts | Mastering Square | Tutorial for Square Discounts](https://www.youtube.com/watch?v=Vo51RWlkU68)
-- [New #square feature: Automatic discounts | Mastering Square](https://www.youtube.com/watch?v=jKt95TplkjI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
