@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Part 1: How to add Amazon-like Upsell Recommendations to Shopify](https://www.youtube.com/watch?v=WwytnaCPhpw)
 - [How to add Filters to your Shopify Store #shopifytips](https://www.youtube.com/watch?v=22Yie2w8x08)
 - [How to add a TERMS AND CONDITIONS Checkbox to Shopify Checkout](https://www.youtube.com/watch?v=OgqA56QJ-I0)
 - [How to add Customer Created PRODUCT BUNDLES to your Shopify Store | Shopify Help](https://www.youtube.com/watch?v=GZbz3S6N0nU)
 - [Learning the Shopify Platform | FREE Masterclass | Non-Techie Help](https://www.youtube.com/watch?v=SNTHoccYzV4)
-- [Shopify Pre-Orders Simplified: Launch with Confidence | Maximizing Shopify](https://www.youtube.com/watch?v=gx6Y2Vui-v0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
