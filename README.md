@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to use Shopify Bundles app | Shopify Tutorial for Non-Techies](https://www.youtube.com/watch?v=bvTD9uwJZvs)
 - [How to add SUBSCRIBE AND SAVE Options to Shopify | Shopify Tutorial](https://www.youtube.com/watch?v=XdewI7bi560)
 - [How to use Shopify Search &amp; Discovery App | #shopify| Mastering Shopify](https://www.youtube.com/watch?v=rBlA9dGIQdU)
 - [Part 1: How to add Amazon-like Upsell Recommendations to Shopify](https://www.youtube.com/watch?v=WwytnaCPhpw)
 - [How to add Filters to your Shopify Store #shopifytips](https://www.youtube.com/watch?v=22Yie2w8x08)
-- [How to add a TERMS AND CONDITIONS Checkbox to Shopify Checkout](https://www.youtube.com/watch?v=OgqA56QJ-I0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
