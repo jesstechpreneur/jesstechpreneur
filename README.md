@@ -1,9 +1,9 @@
 ### Hi there 👋 My name is Jess! I am a [self- taught developer][website]
 
-- 🔭 I’m currently working on Wordpress Plugins
+- 🔭 I’m currently working on WordPress Plugins
 - 🌱 I’m currently learning [Tailwind CSS][Tailwind]
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goal: Contribute to more Open Source projects
+- 🥅 2024 Goal: Code Something Daily
 - ☕ I love coffee! [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)][coffee]
 - ⚡ Fav Gaming System: ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
 
