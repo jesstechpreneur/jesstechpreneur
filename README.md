@@ -47,7 +47,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Square 101 | Navigating the Square Platform](https://www.youtube.com/watch?v=bpQxl7tZz4Q)
+- [Square 101 | Navigating the Square Platform](https://www.youtube.com/watch?v=SphA0vSLqUk)
 - [How to use Shopify Bundles app | Shopify Tutorial for Non-Techies](https://www.youtube.com/watch?v=bvTD9uwJZvs)
 - [How to add SUBSCRIBE AND SAVE Options to Shopify | Shopify Tutorial](https://www.youtube.com/watch?v=XdewI7bi560)
 - [How to use Shopify Search &amp; Discovery App | #shopify| Mastering Shopify](https://www.youtube.com/watch?v=rBlA9dGIQdU)
