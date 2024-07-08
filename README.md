@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to deliver digital products in Square | Mastering Square Basics](https://www.youtube.com/watch?v=UpgnW-Gjz8A)
 - [Quick tutorial on how to add POS login for Square #tutorial #squarepos](https://www.youtube.com/watch?v=ZvVNjs9BJFo)
 - [Mastering Square: A Beginner&#39;s Guide To Navigating The Platform](https://www.youtube.com/watch?v=SphA0vSLqUk)
 - [How to use Shopify Bundles app | Shopify Tutorial for Non-Techies](https://www.youtube.com/watch?v=bvTD9uwJZvs)
 - [How to add SUBSCRIBE AND SAVE Options to Shopify | Shopify Tutorial](https://www.youtube.com/watch?v=XdewI7bi560)
-- [How to use Shopify Search &amp; Discovery App | #shopify| Mastering Shopify](https://www.youtube.com/watch?v=rBlA9dGIQdU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
