@@ -47,8 +47,8 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [How to add Afterpay to Square | Mastering Square Basics](https://www.youtube.com/watch?v=KZYSCcbq5Jk)
-- [How to deliver digital products in Square | Mastering Square Basics](https://www.youtube.com/watch?v=UpgnW-Gjz8A)
+- [How to add Afterpay to Square | Mastering Square Basics #afterpay #square](https://www.youtube.com/watch?v=KZYSCcbq5Jk)
+- [How to deliver digital products in Square | Mastering Square Basics #digitalproducts #square](https://www.youtube.com/watch?v=UpgnW-Gjz8A)
 - [Quick tutorial on how to add POS login for Square #tutorial #squarepos](https://www.youtube.com/watch?v=ZvVNjs9BJFo)
 - [Mastering Square: A Beginner&#39;s Guide To Navigating The Platform](https://www.youtube.com/watch?v=SphA0vSLqUk)
 - [How to use Shopify Bundles app | Shopify Tutorial for Non-Techies](https://www.youtube.com/watch?v=bvTD9uwJZvs)
