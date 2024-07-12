@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to create and Manage a Square Subscription | Mastering Square Basics](https://www.youtube.com/watch?v=6Jf1Cwn0UPA)
 - [How to use Square Shifts | Square Platform Basics for Non-Techies #employeemanagement  #square](https://www.youtube.com/watch?v=-p9OiwUGeB0)
 - [How to add Waitlist option to Square | Mastering Square Basics #appointments #square](https://www.youtube.com/watch?v=dX2zN4AAN2g)
 - [How to add Afterpay to Square | Mastering Square Basics #afterpay #square](https://www.youtube.com/watch?v=KZYSCcbq5Jk)
 - [How to deliver digital products in Square | Mastering Square Basics #digitalproducts #square](https://www.youtube.com/watch?v=UpgnW-Gjz8A)
-- [Quick tutorial on how to add POS login for Square #tutorial #squarepos](https://www.youtube.com/watch?v=ZvVNjs9BJFo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
