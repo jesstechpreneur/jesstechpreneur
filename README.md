@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to add time slots in Square Appointments | Mastering Square Basics](https://www.youtube.com/watch?v=yD38AjH0Y6c)
 - [Mastering Square Basics: Your Guide To Using Square Online Items](https://www.youtube.com/watch?v=wG4BotIrsJ4)
 - [How to create and Manage a Square Subscription | Mastering Square Basics](https://www.youtube.com/watch?v=6Jf1Cwn0UPA)
 - [How to use Square Shifts | Square Platform Basics for Non-Techies #employeemanagement  #square](https://www.youtube.com/watch?v=-p9OiwUGeB0)
 - [How to add Waitlist option to Square | Mastering Square Basics #appointments #square](https://www.youtube.com/watch?v=dX2zN4AAN2g)
-- [How to add Afterpay to Square | Mastering Square Basics #afterpay #square](https://www.youtube.com/watch?v=KZYSCcbq5Jk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
