@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to add Processing time to Square Appointments #square #tutorial](https://www.youtube.com/watch?v=PhUaRIZz8lM)
 - [How to remove BUY NOW Button on Shopify | Shopify Tutorial 2024](https://www.youtube.com/watch?v=IGpDSfSuv6c)
 - [How to remove “Buy Now” button on Shopify #tutorial #shopify y](https://www.youtube.com/watch?v=1ACnDYyXJMM)
 - [How to add time slots in Square Appointments | Mastering Square Basics](https://www.youtube.com/watch?v=yD38AjH0Y6c)
 - [Mastering Square Basics: Your Guide To Using Square Online Items](https://www.youtube.com/watch?v=wG4BotIrsJ4)
-- [How to create and Manage a Square Subscription | Mastering Square Basics](https://www.youtube.com/watch?v=6Jf1Cwn0UPA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
