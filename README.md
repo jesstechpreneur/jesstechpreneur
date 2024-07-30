@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to Create a Discount for Subscribers in Square](https://www.youtube.com/watch?v=p_NbwrJblp4)
 - [How to create a subscriber group in Square #tutorial](https://www.youtube.com/watch?v=LduQaeQW9p0)
 - [How to create forms for Square Appointments](https://www.youtube.com/watch?v=y5n3-lMtXwk)
 - [How to add Processing time to Square Appointments #square #tutorial](https://www.youtube.com/watch?v=PhUaRIZz8lM)
 - [How to remove BUY NOW Button on Shopify | Shopify Tutorial 2024](https://www.youtube.com/watch?v=IGpDSfSuv6c)
-- [How to remove “Buy Now” button on Shopify #tutorial #shopify y](https://www.youtube.com/watch?v=1ACnDYyXJMM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
