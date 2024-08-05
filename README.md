@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to sell a package on Square Appointments](https://www.youtube.com/watch?v=Zgi-UOFo67Q)
 - [How to Create a Payment Links in Square](https://www.youtube.com/watch?v=3GIB_H45u5s)
 - [How to create a Black Friday discount on Square](https://www.youtube.com/watch?v=nRB4XGOwX3M)
 - [How to Create a Discount for Subscribers in Square](https://www.youtube.com/watch?v=p_NbwrJblp4)
 - [How to create a subscriber group in Square #tutorial](https://www.youtube.com/watch?v=LduQaeQW9p0)
-- [How to create forms for Square Appointments](https://www.youtube.com/watch?v=y5n3-lMtXwk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
