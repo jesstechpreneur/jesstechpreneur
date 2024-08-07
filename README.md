@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Updating Square items inventory for multiple locations #tutorial #square #squarehelp](https://www.youtube.com/watch?v=f7zs8wHgpl0)
 - [How to Create a 50% discount in Square](https://www.youtube.com/watch?v=6OQSj78dH8Q)
 - [How to sell a package on Square Appointments](https://www.youtube.com/watch?v=Zgi-UOFo67Q)
 - [How to Create a Payment Links in Square](https://www.youtube.com/watch?v=3GIB_H45u5s)
 - [How to create a Black Friday discount on Square](https://www.youtube.com/watch?v=nRB4XGOwX3M)
-- [How to Create a Discount for Subscribers in Square](https://www.youtube.com/watch?v=p_NbwrJblp4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
