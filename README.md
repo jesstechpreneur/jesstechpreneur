@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to allow SMS marketing for #Square Appointments](https://www.youtube.com/watch?v=YxW6K94xQlk)
 - [How to create a Customer Authorization form in Square](https://www.youtube.com/watch?v=gRM4u6cb_9c)
 - [Navigating Wordpress Posts For Non-Techies | 2024 Tutorial](https://www.youtube.com/watch?v=ViKgnJPq8FM)
 - [How to add a filter in Search and Discovery #shopify app using product options | 2024 Tutorial](https://www.youtube.com/watch?v=lavamLiMJQI)
 - [How to change a subcategory to a Primary Category in Square | 2024 Tutorial #square](https://www.youtube.com/watch?v=lmvlz1npaRY)
-- [Mastering the WordPress Dashboard: A Complete Guide for Beginners 2024](https://www.youtube.com/watch?v=EoZnietlP0E)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
