@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to create a Happy Hour discount in Square](https://www.youtube.com/watch?v=E7Z2kWz0Dnw)
 - [🚨New Feature &quot;Text us&quot; button in Square Appointments](https://www.youtube.com/watch?v=jvMO__XcYRE)
 - [How to add a vendor to #Square Bill Pay](https://www.youtube.com/watch?v=9wi4Sd__cqE)
 - [How to allow SMS marketing for #Square Appointments](https://www.youtube.com/watch?v=YxW6K94xQlk)
 - [How to create a Customer Authorization form in Square](https://www.youtube.com/watch?v=gRM4u6cb_9c)
-- [Navigating Wordpress Posts For Non-Techies | 2024 Tutorial](https://www.youtube.com/watch?v=ViKgnJPq8FM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
