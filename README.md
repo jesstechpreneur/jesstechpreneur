@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to require a saved payment method when booking Square appointments](https://www.youtube.com/watch?v=AX-EgV6GvoA)
 - [🎥 How to turn off Online Orders in Square](https://www.youtube.com/watch?v=5oQvSSlrlHI)
 - [How to create a Happy Hour discount in Square](https://www.youtube.com/watch?v=E7Z2kWz0Dnw)
 - [🚨New Feature &quot;Text us&quot; button in Square Appointments](https://www.youtube.com/watch?v=jvMO__XcYRE)
 - [How to add a vendor to #Square Bill Pay](https://www.youtube.com/watch?v=9wi4Sd__cqE)
-- [How to allow SMS marketing for #Square Appointments](https://www.youtube.com/watch?v=YxW6K94xQlk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
