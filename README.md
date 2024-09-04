@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to add a filter in Search and Discovery using the product options in Shopify](https://www.youtube.com/watch?v=owLNYx9aW1A)
 - [🎥 How to use Shopify Search and Discover](https://www.youtube.com/watch?v=08xPB-9_4oI)
 - [How to require a saved payment method when booking Square appointments](https://www.youtube.com/watch?v=AX-EgV6GvoA)
 - [🎥 How to turn off Online Orders in Square](https://www.youtube.com/watch?v=5oQvSSlrlHI)
 - [How to create a Happy Hour discount in Square](https://www.youtube.com/watch?v=E7Z2kWz0Dnw)
-- [🚨New Feature &quot;Text us&quot; button in Square Appointments](https://www.youtube.com/watch?v=jvMO__XcYRE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
