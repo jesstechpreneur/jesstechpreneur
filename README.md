@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How Square Ordering Looks](https://www.youtube.com/watch?v=ZYNtMKBvQFA)
 - [How to Create a Square Invoice with AfterPay](https://www.youtube.com/watch?v=Wc92kMzfc7k)
 - [How to request a Square Vendor Payee Information](https://www.youtube.com/watch?v=ILxKSJt2_1g)
 - [How to add an Event in Square](https://www.youtube.com/watch?v=XTej5pzxAtg)
 - [How to add a filter in Search and Discovery using the product options in Shopify](https://www.youtube.com/watch?v=owLNYx9aW1A)
-- [🎥 How to use Shopify Search and Discover](https://www.youtube.com/watch?v=08xPB-9_4oI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
