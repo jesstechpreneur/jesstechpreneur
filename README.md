@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Tools you need as a Barber using Square](https://www.youtube.com/watch?v=gh2CpHYc8b0)
 - [How Square Ordering Looks](https://www.youtube.com/watch?v=ZYNtMKBvQFA)
 - [How to Create a Square Invoice with AfterPay](https://www.youtube.com/watch?v=Wc92kMzfc7k)
 - [How to request a Square Vendor Payee Information](https://www.youtube.com/watch?v=ILxKSJt2_1g)
 - [How to add an Event in Square](https://www.youtube.com/watch?v=XTej5pzxAtg)
-- [How to add a filter in Search and Discovery using the product options in Shopify](https://www.youtube.com/watch?v=owLNYx9aW1A)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
