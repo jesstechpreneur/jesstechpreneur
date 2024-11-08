@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to add an EVENT to Square | Learning SQUARE Basics](https://www.youtube.com/watch?v=I2nO9qp-93M)
 - [Apply Cash Payments to Square Invoice 2024](https://www.youtube.com/watch?v=Ljy2cwiLMI8)
 - [How to add AfterPay to Square](https://www.youtube.com/watch?v=GBq-MydGsHY)
 - [Tools you need as a Barber using Square](https://www.youtube.com/watch?v=gh2CpHYc8b0)
 - [How Square Ordering Looks](https://www.youtube.com/watch?v=ZYNtMKBvQFA)
-- [How to Create a Square Invoice with AfterPay](https://www.youtube.com/watch?v=Wc92kMzfc7k)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
