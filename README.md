@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to change a subcategory to a Primary Category in Square](https://www.youtube.com/watch?v=hj5ofeCJYjs)
 - [How to add a service to Square Appointments](https://www.youtube.com/watch?v=ZhAoPnm9X2w)
 - [Tools You Need as a Barber](https://www.youtube.com/watch?v=vMusUGhcjkU)
 - [How to add a filter in Search and Discovery using the product options in Shopify](https://www.youtube.com/watch?v=0vwR7w-xt8I)
 - [How to Optimize and Sell Digital Products with Etsy | Navigating Etsy](https://www.youtube.com/watch?v=HS9rARCtkPY)
-- [How to add an EVENT to Square | Learning SQUARE Basics](https://www.youtube.com/watch?v=I2nO9qp-93M)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
