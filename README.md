@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Venue and Rental company using Square](https://www.youtube.com/watch?v=hvHzDFNm9dc)
 - [How to Connect Square to Etsy Account | 2024 Etsy Tutorial](https://www.youtube.com/watch?v=5bSc_OsrQXM)
 - [How to change a subcategory to a Primary Category in Square](https://www.youtube.com/watch?v=hj5ofeCJYjs)
 - [How to add a service to Square Appointments](https://www.youtube.com/watch?v=ZhAoPnm9X2w)
 - [Tools You Need as a Barber](https://www.youtube.com/watch?v=vMusUGhcjkU)
-- [How to add a filter in Search and Discovery using the product options in Shopify](https://www.youtube.com/watch?v=0vwR7w-xt8I)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
