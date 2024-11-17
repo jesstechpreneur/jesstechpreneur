@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Catering company using Square](https://www.youtube.com/watch?v=JCInzy1BA50)
 - [How to set a default fulfillment Method in Square](https://www.youtube.com/watch?v=ZDUBIvxtHHI)
 - [Starting a POD Company](https://www.youtube.com/watch?v=ELmsqiOq2Wg)
 - [How to add AfterPay to your Square Account](https://www.youtube.com/watch?v=_-_IBrKK2OQ)
 - [Cleaning company using Square](https://www.youtube.com/watch?v=4wdjVSHTUTY)
-- [Venue and Rental company using Square](https://www.youtube.com/watch?v=hvHzDFNm9dc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
