@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Service Providers using Square](https://www.youtube.com/watch?v=JPvoKlaDYpw)
 - [Setup your Cancellation Policy in Square Appointments](https://www.youtube.com/watch?v=rndUZwHQXG8)
 - [Create a Form in Square](https://www.youtube.com/watch?v=5J8RDMYfuzU)
 - [Catering company using Square](https://www.youtube.com/watch?v=JCInzy1BA50)
 - [How to set a default fulfillment Method in Square](https://www.youtube.com/watch?v=ZDUBIvxtHHI)
-- [Starting a POD Company](https://www.youtube.com/watch?v=ELmsqiOq2Wg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
