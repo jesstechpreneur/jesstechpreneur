@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Find Commercial POD Graphics](https://www.youtube.com/watch?v=zkQfx-KDNbY)
 - [Speed Up your WP Website](https://www.youtube.com/watch?v=LVZvhNITI6g)
 - [How to add a service to Square Appointments](https://www.youtube.com/watch?v=hoAMeVeOiRI)
 - [Service Providers using Square](https://www.youtube.com/watch?v=JPvoKlaDYpw)
 - [Setup your Cancellation Policy in Square Appointments](https://www.youtube.com/watch?v=rndUZwHQXG8)
-- [Create a Form in Square](https://www.youtube.com/watch?v=5J8RDMYfuzU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
