@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Create a Form in Square](https://www.youtube.com/watch?v=S3Npi7DVKFg)
 - [How to add a Waitlist to Square Appointments](https://www.youtube.com/watch?v=uT2EYXgL5JQ)
 - [Find Commercial POD Graphics](https://www.youtube.com/watch?v=zkQfx-KDNbY)
 - [Speed Up your WP Website](https://www.youtube.com/watch?v=LVZvhNITI6g)
 - [How to add a service to Square Appointments](https://www.youtube.com/watch?v=hoAMeVeOiRI)
-- [Service Providers using Square](https://www.youtube.com/watch?v=JPvoKlaDYpw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
