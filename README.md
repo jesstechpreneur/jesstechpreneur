@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Find Commercial POD Graphics](https://www.youtube.com/watch?v=uipxL5ycKWM)
 - [Offer Online ordering with Square](https://www.youtube.com/watch?v=imMPHSvheSI)
 - [Create a Form in Square](https://www.youtube.com/watch?v=S3Npi7DVKFg)
 - [How to add a Waitlist to Square Appointments](https://www.youtube.com/watch?v=uT2EYXgL5JQ)
 - [Find Commercial POD Graphics](https://www.youtube.com/watch?v=zkQfx-KDNbY)
-- [Speed Up your WP Website](https://www.youtube.com/watch?v=LVZvhNITI6g)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
