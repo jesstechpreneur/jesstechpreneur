@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to Get Started with Printify | Navigating Printify Dashboard](https://www.youtube.com/watch?v=hLIDpguIa0Q)
 - [How to create a Happy Hour discount in Square](https://www.youtube.com/watch?v=aOskdgQG8yY)
 - [Tools to test your WordPress Website speeds](https://www.youtube.com/watch?v=JI90-KgC4mg)
 - [Find Commercial POD Graphics](https://www.youtube.com/watch?v=uipxL5ycKWM)
 - [Offer Online ordering with Square](https://www.youtube.com/watch?v=imMPHSvheSI)
-- [Create a Form in Square](https://www.youtube.com/watch?v=S3Npi7DVKFg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
