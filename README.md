@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to Create a Holiday Ornament on Printify | Printify Essentials](https://www.youtube.com/watch?v=IXMevaLfgmE)
 - [How to Create a Printify Pop Up Store | Launch in 10 mins | Navigating Printify](https://www.youtube.com/watch?v=oXEcK8G65tg)
 - [How to Create your First Product on Printify | Navigating Printify 2025](https://www.youtube.com/watch?v=QH8P1-bItz0)
 - [How to Get Started with Printify | Navigating Printify Dashboard](https://www.youtube.com/watch?v=hLIDpguIa0Q)
 - [How to create a Happy Hour discount in Square](https://www.youtube.com/watch?v=aOskdgQG8yY)
-- [Tools to test your WordPress Website speeds](https://www.youtube.com/watch?v=JI90-KgC4mg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
