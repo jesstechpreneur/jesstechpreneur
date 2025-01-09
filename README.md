@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to add Printful to TikTok Shop | Non-Techie&#39;s Guide to Printful on TikTok Shop](https://www.youtube.com/watch?v=EUJoHHfRA2g)
 - [How to Add Store Credit to Shopify Customers | Mastering Shopify](https://www.youtube.com/watch?v=QLTX7N9Y4yg)
 - [How to Connect Printify to TikTok Shop | Selling on TikTok](https://www.youtube.com/watch?v=f_KmpfuN81c)
 - [How to Create a Holiday Ornament on Printify | Printify Essentials](https://www.youtube.com/watch?v=IXMevaLfgmE)
 - [How to Create a Printify Pop Up Store | Launch in 10 mins | Navigating Printify](https://www.youtube.com/watch?v=oXEcK8G65tg)
-- [How to Create your First Product on Printify | Navigating Printify 2025](https://www.youtube.com/watch?v=QH8P1-bItz0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
