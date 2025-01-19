@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to Add Printful to TikTok Shop](https://www.youtube.com/watch?v=H35Ii232XFQ)
 - [How to add Gelato to TikTok Shop](https://www.youtube.com/watch?v=d8PaMmX3_Io)
 - [How to Turn off Store Credit in Shopify](https://www.youtube.com/watch?v=0hgHU2VF_ag)
 - [How to Turn on Self-Serve Returns on Shopify](https://www.youtube.com/watch?v=RpchsY4Pgus)
 - [How to add Buy X Get Y Discount in Shopify](https://www.youtube.com/watch?v=RfLN2AJXVtw)
-- [How to Turn off Store Credit in Shopify](https://www.youtube.com/watch?v=XuaL6f_ohvk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
