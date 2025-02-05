@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to Add Money Order Payments in Shopify | Shopify Tutorial 2025](https://www.youtube.com/watch?v=Pk_pBojIVIY)
 - [How to add Printify to Squarespace | Add Printify to Squarespace in Minutes!](https://www.youtube.com/watch?v=TMJ0Svgn1_c)
 - [How to Find your Collaborator code in Shopify | Mastering Shopify Basics](https://www.youtube.com/watch?v=3CJY49cma1M)
 - [How to Add Printful to TikTok Shop](https://www.youtube.com/watch?v=H35Ii232XFQ)
 - [How to add Gelato to TikTok Shop](https://www.youtube.com/watch?v=d8PaMmX3_Io)
-- [How to Turn off Store Credit in Shopify](https://www.youtube.com/watch?v=0hgHU2VF_ag)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
