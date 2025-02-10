@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to customize your Shopify Email Brand settings | Shopify Email Branding Made Simple](https://www.youtube.com/watch?v=xoRvegBr5D8)
 - [How to Set Up Acuity Scheduling on Squarespace 🚀 | Acuity Tutorial](https://www.youtube.com/watch?v=E87hdOEJkgQ)
 - [How to turn on Auto Update on Wordpress Themes | Automating WordPress Updates](https://www.youtube.com/watch?v=B5v0Xi0SWQ4)
 - [How to Add Money Order Payments in Shopify | Shopify Tutorial 2025](https://www.youtube.com/watch?v=Pk_pBojIVIY)
 - [How to add Printify to Squarespace | Add Printify to Squarespace in Minutes!](https://www.youtube.com/watch?v=TMJ0Svgn1_c)
-- [How to Find your Collaborator code in Shopify | Mastering Shopify Basics](https://www.youtube.com/watch?v=3CJY49cma1M)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
