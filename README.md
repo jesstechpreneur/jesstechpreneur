@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to Add Brand Info to your Shopify Store | Shopify Tutorial 2025](https://www.youtube.com/watch?v=2knSRbxZqwk)
 - [How to Create a Automatic Collection in Shopify | Create a Shopify Category Under $100 Easily](https://www.youtube.com/watch?v=tX6sqkdIp3Q)
 - [How to Update your Shopify Theme | Shopify Tutorial 2025](https://www.youtube.com/watch?v=JWLjSdzD-Eo)
 - [How to create a basic discount in Shopify | Shopify Tutorial 2025](https://www.youtube.com/watch?v=0jE8Ysrk7CM)
 - [How to add your time zone to Acuity | Acuity Time Zone Setup Made Easy 2025 Tutorial](https://www.youtube.com/watch?v=WeazF9Whdbg)
-- [How to turn on Auto Update on Wordpress Plugins | Automating WordPress Updates](https://www.youtube.com/watch?v=c9WQ3sDxFl0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
