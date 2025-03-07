@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to add a site favicon in Squarespace | Squarespace Essentials Tutorial 2025](https://www.youtube.com/watch?v=CLFZuK4uvL4)
 - [How to Create a 1 on 1 Appointment in Acuity | Acuity Essential Tutorial 2025](https://www.youtube.com/watch?v=QXT7uL-YG3I)
 - [How to Add Deposits to Acuity | Easily Set Up Booking Deposits with Acuity 2025](https://www.youtube.com/watch?v=kiY6cGI5WFc)
 - [How to Connect Printful to Squarespace in Minutes | Printful Tutorial 2025](https://www.youtube.com/watch?v=-eOqhVrq28I)
 - [How to Create a Free Shipping discount on Shopify | How to Create Free Shipping in Shopify 🚚 2025](https://www.youtube.com/watch?v=HkKo989vkhQ)
-- [How to Add Brand Info to your Shopify Store | Shopify Tutorial 2025](https://www.youtube.com/watch?v=2knSRbxZqwk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
