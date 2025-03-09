@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to Enable Offline Payments on Square POS | Square Tutorial 2025](https://www.youtube.com/watch?v=ap6fVJAlwJw)
 - [How to Ban Clients in Acuity Appointments | Acuity Tutorial 2025](https://www.youtube.com/watch?v=U7e4EVYx-wI)
 - [How to add a site favicon in Squarespace | Squarespace Essentials Tutorial 2025](https://www.youtube.com/watch?v=CLFZuK4uvL4)
 - [How to Create a 1 on 1 Appointment in Acuity | Acuity Essential Tutorial 2025](https://www.youtube.com/watch?v=QXT7uL-YG3I)
 - [How to Add Deposits to Acuity | Easily Set Up Booking Deposits with Acuity 2025](https://www.youtube.com/watch?v=kiY6cGI5WFc)
-- [How to Connect Printful to Squarespace in Minutes | Printful Tutorial 2025](https://www.youtube.com/watch?v=-eOqhVrq28I)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
