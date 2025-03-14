@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to Add A Policy to Payment Links in Square | Square Tutorial 2025](https://www.youtube.com/watch?v=z3Sdh9YfdSM)
 - [How to add a custom form to Square Space Checkout | Squarespace tutorial 2025](https://www.youtube.com/watch?v=1vc1nOqSC0c)
 - [How to add a Coupon in Acuity Appointments | Acuity Tutorial 2025](https://www.youtube.com/watch?v=53zZTaF1rHg)
 - [How to add a Cookie Banner to Shopify website | Shopify Tutorial 2025](https://www.youtube.com/watch?v=_P94NN3tSp4)
 - [How to add a Clickable link to a SquareSpace Announcement Bar | SquareSpace Tutorial 2025](https://www.youtube.com/watch?v=yuHUS-Qqc2U)
-- [How to Enable Offline Payments on Square POS | Square Tutorial 2025](https://www.youtube.com/watch?v=ap6fVJAlwJw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
