@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to add a Blog Category to WordPress | WordPress Tutorial 2025](https://www.youtube.com/watch?v=qqVAi0jNRGc)
 - [How to add Business Info to Wix | Wix Tutorial 2025](https://www.youtube.com/watch?v=5hLpFMr-900)
 - [How to add Business information to SquareSpace | SquareSpace Tutorial 2025](https://www.youtube.com/watch?v=m2X9_LSz6j0)
 - [How to Change Post URL to Post Name in wordpress | Wordpress Tutorial 2025](https://www.youtube.com/watch?v=LpK0lrNpBnM)
 - [How to Edit your Default Email Template in SquareSpace | SquareSpace Tutorial 2025](https://www.youtube.com/watch?v=FrK_8PabUro)
-- [How to Add A Policy to Payment Links in Square | Square Tutorial 2025](https://www.youtube.com/watch?v=z3Sdh9YfdSM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
