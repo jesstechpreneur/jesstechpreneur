@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to add a Cookie Consent to Square | Square Tutorial 2025](https://www.youtube.com/watch?v=RVjc5e5ber8)
 - [How to add Pinterest Save Buttons on SquareSpace Websites | Squarespace Tutorial 2025](https://www.youtube.com/watch?v=2Ydffpf9SRY)
 - [How to Create a Home Based Appointment in Wix Appointments | Wix Tutorial 2025](https://www.youtube.com/watch?v=O0c2rBccY00)
 - [How to Add a Email Popup to SquareSpace | SquareSpace Tutorial 2025](https://www.youtube.com/watch?v=p84nM4cUmt4)
 - [How to add a group training to Wix Appointments | Wix Tutorial 2025](https://www.youtube.com/watch?v=GNI8lxdlvq8)
-- [How to add a Quantity option in SquareSpace Services | SquareSpace Tutorial 2025](https://www.youtube.com/watch?v=AZzHL64byTg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
