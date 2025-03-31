@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to turn off SquareSpace Site Promotion | SquareSpace Tutorial 2025](https://www.youtube.com/watch?v=3KGHnMDZhh8)
 - [How to add a Mobile Info Bar to SquareSpace | SquareSpace Tutorial 2025](https://www.youtube.com/watch?v=EYGTX5zDPiA)
 - [How to add a Paywall to a SquareSpace Blog](https://www.youtube.com/watch?v=OLEze72UUBA)
 - [How to add Cash on Delivery in Shopify | Shopify Tutorial 2025](https://www.youtube.com/watch?v=IMgvhleV8zo)
 - [How to add a Paywall to SquareSpace Video page | Monitize your Videos | SquareSpace Tutorial 2025](https://www.youtube.com/watch?v=-xZM9fxSK_c)
-- [How to add a Cookie Consent to Square | Square Tutorial 2025](https://www.youtube.com/watch?v=RVjc5e5ber8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
