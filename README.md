@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Jess! I am a [self- taught developer][website]
 
-- 🔭 I’m currently working on WordPress Plugins
-- 🌱 I’m currently learning [Tailwind CSS][Tailwind]
+- 🔭 I’m currently working on Shopify Apps
+- 🌱 I’m currently learning [![Flutter](https://flutter.dev/)]
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2024 Goal: Code Something Daily
 - ☕ I love coffee! [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)][coffee]
@@ -66,13 +66,12 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jesstechpreneur)](https://git.io/streak-stats)
 
 
-[website]: https://jesstechpreneur.com
+[website]: https://jessdevelops.com
 [youtube]: https://www.youtube.com/channel/UCkD5NNLTY8BM0fnAQxAjyJA
 [twitter]: https://twitter.com/jesstechpreneur
 [facebook]: https://facebook.com/jesstechpreneur 
-[blog]: https://nontechieentrepreneur.com/blog
-[tailwind]: https://tailwindcss.com/
-[coffee]: https://www.buymeacoffee.com/jesstech
+[blog]: https://nontechiehq.com
+[coffee]: https://www.buymeacoffee.com/jessdevelops
 [ud]: https://www.udemy.com/user/jess-lee-11/
 [skillshare]: https://www.skillshare.com/en/r/user/jesstech?gr_tch_ref=on&gr_trp=on
 
