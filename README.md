@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [🎥 How to add a Site Favicon to SquareSpace](https://www.youtube.com/watch?v=g6uDvwJom8E)
 - [How to create a 1 on 1 Appointment on Acuity](https://www.youtube.com/watch?v=P13xCOgJ1eU)
 - [How to turn off SquareSpace Site Promotion | SquareSpace Tutorial 2025](https://www.youtube.com/watch?v=3KGHnMDZhh8)
 - [How to add a Mobile Info Bar to SquareSpace | SquareSpace Tutorial 2025](https://www.youtube.com/watch?v=EYGTX5zDPiA)
 - [How to add a Paywall to a SquareSpace Blog](https://www.youtube.com/watch?v=OLEze72UUBA)
-- [How to add Cash on Delivery in Shopify | Shopify Tutorial 2025](https://www.youtube.com/watch?v=IMgvhleV8zo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
