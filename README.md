@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to add Printify to Shopify](https://www.youtube.com/watch?v=ap-5ghPZ_6w)
 - [🎥 How to add a Clickable Link to SquareSpace Announcement Bar](https://www.youtube.com/watch?v=mMGUq6D9_fI)
 - [🎥 How to add a Site Favicon in SquareSpace](https://www.youtube.com/watch?v=6mzHWBwHq_I)
 - [How to create a 1 on 1 Appointment on Acuity](https://www.youtube.com/watch?v=7NPSv84_-9g)
 - [🎥 How to add a Site Favicon to SquareSpace](https://www.youtube.com/watch?v=g6uDvwJom8E)
-- [How to create a 1 on 1 Appointment on Acuity](https://www.youtube.com/watch?v=P13xCOgJ1eU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
