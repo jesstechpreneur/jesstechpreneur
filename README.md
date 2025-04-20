@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [🎥 How to add COD Payments to Shopify](https://www.youtube.com/watch?v=yx0q3dq3pe4)
 - [🎥 How to turn off SquareSpace Site Promotion](https://www.youtube.com/watch?v=SNvzPstpRkU)
 - [🎥  How to add a Cookie Banner to Shopify](https://www.youtube.com/watch?v=0bwO_etETQI)
 - [How to add Printify to Shopify| Add Printify to Your Shopify Store Easily 2025](https://www.youtube.com/watch?v=ap-5ghPZ_6w)
 - [🎥 How to add a Clickable Link to SquareSpace Announcement Bar](https://www.youtube.com/watch?v=mMGUq6D9_fI)
-- [🎥 How to add a Site Favicon in SquareSpace](https://www.youtube.com/watch?v=6mzHWBwHq_I)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
