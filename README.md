@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [🎥 How to add a Home Based option in Wix](https://www.youtube.com/watch?v=rS_eR5i29Q8)
 - [🎥 How to add a Group Training Option in Wix](https://www.youtube.com/watch?v=lGYt4bfokrw)
 - [🎥 How to add Business Info to Wix](https://www.youtube.com/watch?v=SQGgKWpJAi0)
 - [🎥 How to add a Paywall Video Page to SquareSpace](https://www.youtube.com/watch?v=h5pWY-q8SAc)
 - [🎥 How to add a Pop-Up on SquareSpace](https://www.youtube.com/watch?v=_l_MeinIsXA)
-- [🎥 How to add a mobile information bar on SquareSpace](https://www.youtube.com/watch?v=MW7QZ_UEcv0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
