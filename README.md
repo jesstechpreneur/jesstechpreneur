@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [🎥 How to Edit your Default Email Template in SquareSpace](https://www.youtube.com/watch?v=uZBKXraA04s)
 - [🎥 How to add Pinterest Save Buttons on Squarespace Websites](https://www.youtube.com/watch?v=uVSO_k2bsHY)
 - [🎥 How to add a Home Based option in Wix](https://www.youtube.com/watch?v=rS_eR5i29Q8)
 - [🎥 How to add a Group Training Option in Wix](https://www.youtube.com/watch?v=lGYt4bfokrw)
 - [🎥 How to add Business Info to Wix](https://www.youtube.com/watch?v=SQGgKWpJAi0)
-- [🎥 How to add a Paywall Video Page to SquareSpace](https://www.youtube.com/watch?v=h5pWY-q8SAc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
