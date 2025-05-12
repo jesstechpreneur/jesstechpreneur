@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [🎥 How to add a Coupon in Acuity](https://www.youtube.com/watch?v=HFXcvBaHtAQ)
 - [🎥 How to Display Popup on SquareSpace](https://www.youtube.com/watch?v=RW4jC1ql_vE)
 - [🎥 How to add a Custom Checkout Form in SquareSpace](https://www.youtube.com/watch?v=9M7iDt2_36k)
 - [🎥 How to add Business Info to SquareSpace Website](https://www.youtube.com/watch?v=09R8gkQue0w)
 - [🎥 How to add Business Info to SquareSpace Website](https://www.youtube.com/watch?v=dtwefCLeXbs)
-- [How to Update Your Shopify Time Zone | Change Shopify Time Zone Settings Fast &amp; Easy](https://www.youtube.com/watch?v=fNGderdPfqA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
