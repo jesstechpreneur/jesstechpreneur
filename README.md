@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to add your Business name to Wordpress Admin Dashboard Bar | WordPress Tutorial 2025](https://www.youtube.com/watch?v=NH3jHqHIq5A)
 - [🎥 How to add a Coupon in Acuity](https://www.youtube.com/watch?v=HFXcvBaHtAQ)
 - [🎥 How to Display Popup on SquareSpace](https://www.youtube.com/watch?v=RW4jC1ql_vE)
 - [🎥 How to add a Custom Checkout Form in SquareSpace](https://www.youtube.com/watch?v=9M7iDt2_36k)
 - [🎥 How to add Business Info to SquareSpace Website](https://www.youtube.com/watch?v=09R8gkQue0w)
-- [🎥 How to add Business Info to SquareSpace Website](https://www.youtube.com/watch?v=dtwefCLeXbs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
