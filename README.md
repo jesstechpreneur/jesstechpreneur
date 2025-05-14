@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to Set your Homepage and Blog in Wordpress| WordPress Tutorial 2025](https://www.youtube.com/watch?v=IsNwrg8u0f0)
 - [🎥 How to Ban Clients on Acuity](https://www.youtube.com/watch?v=_PoUN6S6slQ)
 - [How to Connect Printful to Shopify in Minutes | Printful Tutorial 2025](https://www.youtube.com/watch?v=Xrx0hBzh3p8)
 - [How to add your Business name to Wordpress Admin Dashboard Bar | WordPress Tutorial 2025](https://www.youtube.com/watch?v=NH3jHqHIq5A)
 - [🎥 How to add a Coupon in Acuity](https://www.youtube.com/watch?v=HFXcvBaHtAQ)
-- [🎥 How to Display Popup on SquareSpace](https://www.youtube.com/watch?v=RW4jC1ql_vE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
