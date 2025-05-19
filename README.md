@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [🎥 How to add COD Payments to Shopify](https://www.youtube.com/watch?v=vN8z7E8slE0)
 - [🎥 How to turn off SquareSpace Site Promotion](https://www.youtube.com/watch?v=Oz31LrXW7Pk)
 - [🎥  How to add a Cookie Banner to Shopify](https://www.youtube.com/watch?v=Tr8nDFsigQU)
 - [How to Create Promotions on Printify Easily | Printify Tutorial 2025](https://www.youtube.com/watch?v=Ehu7pHC2JYc)
 - [How to create a 1 on 1 Appointment on Acuity](https://www.youtube.com/watch?v=TTEoLu6h3vw)
-- [How to Create a Printful Quick Store](https://www.youtube.com/watch?v=1zGDBKzlHIc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
