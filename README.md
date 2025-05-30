@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [🎥 How to add Business Info to Wix](https://www.youtube.com/watch?v=DWTDSZd-q1o)
 - [🎥 How to add a Paywall Video Page to SquareSpace](https://www.youtube.com/watch?v=GSH6_oSvxPU)
 - [🎥 How to add a Paywall Blog on SquareSpace](https://www.youtube.com/watch?v=QF-e0Sa_nZA)
 - [🎥 How to add a Pop-Up on SquareSpace](https://www.youtube.com/watch?v=cDHIdKqbaQE)
 - [🎥 How to add a mobile information bar on SquareSpace](https://www.youtube.com/watch?v=vEQ2hNkHj1s)
-- [🎥 How to add a new Blog Category on WordPress](https://www.youtube.com/watch?v=vWsezhalERM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
