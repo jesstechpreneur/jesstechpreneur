@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [🎥 How to add a Custom Checkout Form in SquareSpace](https://www.youtube.com/watch?v=caoBChXpRkQ)
 - [🎥 How to add Business Info to SquareSpace Website](https://www.youtube.com/watch?v=Y5Io04HE13k)
 - [🎥 How to add a Quantity Option to SquareSpace Services](https://www.youtube.com/watch?v=2jOzqAGCUqA)
 - [🎥 How to Edit your Default Email Template in SquareSpace](https://www.youtube.com/watch?v=YbvRA1aOpVU)
 - [🎥 How to add Pinterest Save Buttons on Squarespace Websites](https://www.youtube.com/watch?v=JM_S5MzyRG0)
-- [🎥 How to add a Home Based option in Wix](https://www.youtube.com/watch?v=J8Om51cT2uk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
