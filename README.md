@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Google Business 101: How to Get Found on Google Without Paid Ads &lpar;Perfect for Service Providers!&rpar;](https://www.youtube.com/watch?v=Mi3j3O-pAFQ)
 - [🎥 How to turn off SquareSpace Site Promotion](https://www.youtube.com/shorts/mK0t6VPIrDk)
 - [🎥  How to add a Cookie Banner to Shopify](https://www.youtube.com/shorts/zfk2jpcZSQ4)
 - [How to create a 1 on 1 Appointment on Acuity](https://www.youtube.com/shorts/MjuPr0BImHA)
 - [🎥 How to add a Site Favicon to SquareSpace](https://www.youtube.com/shorts/mzJ-4iCguPg)
-- [🎥 How to add a Clickable Link to SquareSpace Announcement Bar](https://www.youtube.com/shorts/Gu9epymOwzU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
