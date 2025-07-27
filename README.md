@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [🎥 How to add a Paywall Video Page to SquareSpace](https://www.youtube.com/shorts/FlZi7s4vEI8)
 - [🎥 How to add a Paywall Blog on SquareSpace](https://www.youtube.com/shorts/DuqYxohGcG0)
 - [🎥 How to add a Pop-Up on SquareSpace](https://www.youtube.com/shorts/qzIG6UFlHrQ)
 - [🎥 How to add a mobile information bar on SquareSpace](https://www.youtube.com/shorts/_Gms3HZ2XcE)
 - [🎥 How to add a new Blog Category on WordPress](https://www.youtube.com/shorts/6be7LgCdBng)
-- [🎥 How to change Post URL to Post Name in SquareSpace](https://www.youtube.com/shorts/1qfkYBa2zdI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
