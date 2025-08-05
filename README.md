@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [🎥 How to Display Popup on SquareSpace](https://www.youtube.com/shorts/rwX7J0t3t6o)
 - [🎥 How to add a Custom Checkout Form in SquareSpace](https://www.youtube.com/shorts/BYVvhMovH0w)
 - [🎥 How to add Business Info to SquareSpace Website](https://www.youtube.com/shorts/TfweTeIYkxY)
 - [🎥 How to add a Quantity Option to SquareSpace Services](https://www.youtube.com/shorts/D1G2Q06sf6Y)
 - [🎥 How to Edit your Default Email Template in SquareSpace](https://www.youtube.com/shorts/4UKAV5xWslg)
-- [🎥 How to add Pinterest Save Buttons on Squarespace Websites](https://www.youtube.com/shorts/Vgh-RzbouDg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
