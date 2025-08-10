@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [🎥 How to add a Clickable Link to SquareSpace Announcement Bar](https://www.youtube.com/shorts/4713UiuKou8)
 - [🎥 How to Ban Clients on Acuity](https://www.youtube.com/shorts/OJERUlCmdzc)
 - [🎥 How to add a Coupon in Acuity](https://www.youtube.com/shorts/piGB_hiGZc4)
 - [🎥 How to Display Popup on SquareSpace](https://www.youtube.com/shorts/rwX7J0t3t6o)
 - [🎥 How to add a Custom Checkout Form in SquareSpace](https://www.youtube.com/shorts/BYVvhMovH0w)
-- [🎥 How to add Business Info to SquareSpace Website](https://www.youtube.com/shorts/TfweTeIYkxY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
