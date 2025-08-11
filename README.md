@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to create a 1 on 1 Appointment on Acuity](https://www.youtube.com/shorts/IMKskQ4Abhc)
 - [🎥 How to add a Site Favicon to SquareSpace](https://www.youtube.com/shorts/AaWtEleSW18)
 - [🎥 How to add a Clickable Link to SquareSpace Announcement Bar](https://www.youtube.com/shorts/4713UiuKou8)
 - [🎥 How to Ban Clients on Acuity](https://www.youtube.com/shorts/OJERUlCmdzc)
 - [🎥 How to add a Coupon in Acuity](https://www.youtube.com/shorts/piGB_hiGZc4)
-- [🎥 How to Display Popup on SquareSpace](https://www.youtube.com/shorts/rwX7J0t3t6o)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
