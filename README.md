@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [🎥 How to add Cookie Consent to Square](https://www.youtube.com/shorts/bfTowANFThE)
 - [🎥 How to add a Policy to Payment Links in Square](https://www.youtube.com/shorts/inUY2z5ajmo)
 - [🎥 How to add COD Payments to Shopify](https://www.youtube.com/shorts/ePY5Nkyaxvk)
 - [🎥 How to turn off SquareSpace Site Promotion](https://www.youtube.com/shorts/xRa5XW--qV4)
 - [🎥  How to add a Cookie Banner to Shopify](https://www.youtube.com/shorts/mHWPTSMjcyw)
-- [How to create a 1 on 1 Appointment on Acuity](https://www.youtube.com/shorts/IMKskQ4Abhc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
