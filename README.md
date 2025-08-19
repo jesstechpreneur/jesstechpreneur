@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [🎥 How to add a new Blog Category on WordPress](https://www.youtube.com/shorts/I28_jjgZ3Qo)
 - [🎥 How to change Post URL to Post Name in SquareSpace](https://www.youtube.com/shorts/r_GLtqk7Jco)
 - [🎥 How to add Cookie Consent to Square](https://www.youtube.com/shorts/bfTowANFThE)
 - [🎥 How to add a Policy to Payment Links in Square](https://www.youtube.com/shorts/inUY2z5ajmo)
 - [🎥 How to add COD Payments to Shopify](https://www.youtube.com/shorts/ePY5Nkyaxvk)
-- [🎥 How to turn off SquareSpace Site Promotion](https://www.youtube.com/shorts/xRa5XW--qV4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
