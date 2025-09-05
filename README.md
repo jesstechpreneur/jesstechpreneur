@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [🎥 How to add a Coupon in Acuity](https://www.youtube.com/shorts/gmo77U5p690)
 - [🎥 How to Display Popup on SquareSpace](https://www.youtube.com/shorts/MfPD0DVXxpQ)
 - [🎥 How to add a Custom Checkout Form in SquareSpace](https://www.youtube.com/shorts/OxTMtKHX9wo)
 - [🎥 How to add Business Info to SquareSpace Website](https://www.youtube.com/shorts/G1_xauDmbLk)
 - [🎥 How to add a Quantity Option to SquareSpace Services](https://www.youtube.com/shorts/BAqARz_CCJM)
-- [🎥 How to Edit your Default Email Template in SquareSpace](https://www.youtube.com/shorts/1ggag7qSMZU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
