@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [🎥  How to add a Cookie Banner to Shopify](https://www.youtube.com/shorts/feuqxjGlJE8)
 - [How to create a 1 on 1 Appointment on Acuity](https://www.youtube.com/shorts/pQ1KUkK64_E)
 - [🎥 How to add a Site Favicon to SquareSpace](https://www.youtube.com/shorts/iTQiOz1cW-c)
 - [🎥 How to add a Clickable Link to SquareSpace Announcement Bar](https://www.youtube.com/shorts/uxfunO4-ADk)
 - [🎥 How to Ban Clients on Acuity](https://www.youtube.com/shorts/V2b3xinl5os)
-- [🎥 How to add a Coupon in Acuity](https://www.youtube.com/shorts/gmo77U5p690)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
