@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [🎥 How to change Post URL to Post Name in SquareSpace](https://www.youtube.com/shorts/cdd0V6VyQIs)
 - [🎥 How to add Cookie Consent to Square](https://www.youtube.com/shorts/tOJs5xEJy2Q)
 - [🎥 How to add a Policy to Payment Links in Square](https://www.youtube.com/shorts/8_5ciUSdHtg)
 - [🎥 How to add COD Payments to Shopify](https://www.youtube.com/shorts/OZ4z4aicCoQ)
 - [🎥 How to turn off SquareSpace Site Promotion](https://www.youtube.com/shorts/11-vwLd3l50)
-- [🎥  How to add a Cookie Banner to Shopify](https://www.youtube.com/shorts/ybALSVRxYWw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
