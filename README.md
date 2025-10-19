@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [🎥 How to add a Pop-Up on SquareSpace](https://www.youtube.com/shorts/XwrKtBV0Suo)
 - [🎥 How to add a mobile information bar on SquareSpace](https://www.youtube.com/shorts/TA-4TN5vicE)
 - [🎥 How to add a new Blog Category on WordPress](https://www.youtube.com/shorts/qXBSqvsQFEs)
 - [🎥 How to change Post URL to Post Name in SquareSpace](https://www.youtube.com/shorts/cdd0V6VyQIs)
 - [🎥 How to add Cookie Consent to Square](https://www.youtube.com/shorts/tOJs5xEJy2Q)
-- [🎥 How to add a Policy to Payment Links in Square](https://www.youtube.com/shorts/8_5ciUSdHtg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
