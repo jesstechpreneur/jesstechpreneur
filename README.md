@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [🎥 How to add Pinterest Save Buttons on Squarespace Websites](https://www.youtube.com/shorts/8QNO7zp-QYQ)
 - [🎥 How to add a Home Based option in Wix](https://www.youtube.com/shorts/yoj84QZxK6I)
 - [🎥 How to add a Group Training Option in Wix](https://www.youtube.com/shorts/hx917hYnRTc)
 - [🎥 How to add Business Info to Wix](https://www.youtube.com/shorts/fZsVvSyibuY)
 - [🎥 How to add a Paywall Video Page to SquareSpace](https://www.youtube.com/shorts/Eo_BavmlcEQ)
-- [🎥 How to add a Paywall Blog on SquareSpace](https://www.youtube.com/shorts/RXAOem38vxo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
