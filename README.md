@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Square 2025 Updates: Big Changes for Service, Beauty, Retail &amp; Food Business Owners](https://www.youtube.com/watch?v=rTIc8rZaKsc)
 - [🎥 How to Edit your Default Email Template in SquareSpace](https://www.youtube.com/shorts/dio_UsN3CPw)
 - [Thank you @youtubecreators ! Cheers to 7 more years 🥂 #youtubepartnerperks](https://www.youtube.com/shorts/aMx6jgthNRA)
 - [🎥 How to add Pinterest Save Buttons on Squarespace Websites](https://www.youtube.com/shorts/8QNO7zp-QYQ)
 - [🎥 How to add a Home Based option in Wix](https://www.youtube.com/shorts/yoj84QZxK6I)
-- [🎥 How to add a Group Training Option in Wix](https://www.youtube.com/shorts/hx917hYnRTc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
