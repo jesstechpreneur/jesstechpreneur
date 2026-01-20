@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to set Deposit Requirements for Square Appointments | Square Tutorial 2026](https://www.youtube.com/watch?v=2xnHzLIpTtM)
 - [Square&#39;s New Simplified Pricing 2026](https://www.youtube.com/watch?v=hRKwXo7tQnQ)
 - [🎥 How to add a Site Favicon to SquareSpace](https://www.youtube.com/shorts/wJkUY6zEIpE)
 - [🎥 How to add a Clickable Link to SquareSpace Announcement Bar](https://www.youtube.com/shorts/GXtCskQQ0Fs)
 - [🎥 How to Ban Clients on Acuity](https://www.youtube.com/shorts/1KfE4fwWatU)
-- [🎥 How to add a Coupon in Acuity](https://www.youtube.com/shorts/320CzDOicAk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
