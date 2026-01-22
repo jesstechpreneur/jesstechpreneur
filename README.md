@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to Print Declined Payment Receipts on Square POS | Square Tutorial 2026](https://www.youtube.com/watch?v=UigR31-K9Uw)
 - [Square POS Masterclass | Square Tutorial 2026](https://www.youtube.com/watch?v=ezcLLYo-j0c)
 - [How to set Deposit Requirements for Square Appointments | Square Tutorial 2026](https://www.youtube.com/watch?v=2xnHzLIpTtM)
 - [Square&#39;s New Simplified Pricing 2026](https://www.youtube.com/watch?v=hRKwXo7tQnQ)
 - [🎥 How to add a Site Favicon to SquareSpace](https://www.youtube.com/shorts/wJkUY6zEIpE)
-- [🎥 How to add a Clickable Link to SquareSpace Announcement Bar](https://www.youtube.com/shorts/GXtCskQQ0Fs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
