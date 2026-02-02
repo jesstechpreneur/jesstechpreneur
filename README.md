@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to add Appointment Deposits to Square | Square Tutorial 2026](https://www.youtube.com/shorts/3mR4f-kFZ8E)
 - [How to Create a Sign Up Screen with an Opt-in Coupon on the Square POS System](https://www.youtube.com/shorts/MnaUUzCF8eg)
 - [How to print declined payment receipts on Square POS transactions | Square Platform Tutorial 2026](https://www.youtube.com/shorts/7tg1m8Hnz1o)
 - [How to Add ACH Payments to Square Invoices](https://www.youtube.com/watch?v=VUOnnVjrVDE)
 - [How to add Appointment Deposits to Square | Square Tutorial 2026](https://www.youtube.com/shorts/X5SGaHPPK-w)
-- [How to Create a Subscription with a Fixed Price in Square](https://www.youtube.com/watch?v=2cqc0gObTH4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
