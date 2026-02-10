@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [How to Create a Sign Up Screen with an Opt-in Coupon on the Square POS System](https://www.youtube.com/shorts/eQEWFGYrAIk)
 - [How to print declined payment receipts on Square POS transactions | Square Platform Tutorial 2026](https://www.youtube.com/shorts/XLh_0mkSiI4)
 - [How to add Appointment Deposits to Square | Square Tutorial 2026](https://www.youtube.com/shorts/usklbSOD7UE)
 - [Most Businesses Set Up Square Wrong - I&#39;m Fixing it For Free](https://www.youtube.com/watch?v=9D8K28VAbFY)
 - [How to add Appointment Deposits to Square | Square Tutorial 2026](https://www.youtube.com/shorts/3mR4f-kFZ8E)
+- [How to Create a Sign Up Screen with an Opt-in Coupon on the Square POS System](https://www.youtube.com/shorts/MnaUUzCF8eg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
