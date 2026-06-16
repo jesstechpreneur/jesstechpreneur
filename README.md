@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Square Cafe Setup Day 1: Account, Dashboard &amp; Location | Startup Diaries Series for Non-Techies](https://www.youtube.com/watch?v=HjA_q0cWNHQ)
 - [How to add Appointment Deposits to Square | Square Tutorial 2026](https://www.youtube.com/shorts/huONBu1QB7A)
 - [How to print declined payment receipts on Square POS transactions | Square Platform Tutorial 2026](https://www.youtube.com/shorts/XLh_0mkSiI4)
 - [How to add Appointment Deposits to Square | Square Tutorial 2026](https://www.youtube.com/shorts/usklbSOD7UE)
 - [Most Businesses Set Up Square Wrong - I&#39;m Fixing it For Free](https://www.youtube.com/watch?v=9D8K28VAbFY)
-- [How to add Appointment Deposits to Square | Square Tutorial 2026](https://www.youtube.com/shorts/3mR4f-kFZ8E)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
