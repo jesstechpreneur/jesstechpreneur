@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [What is needed to add my business information to Square for my LLC, corporation or Non-profit?](https://www.youtube.com/shorts/A33YW9VxaKE)
 - [How to Reset Ticket Order Numbers Every Day | 2026 Square Tutorial](https://www.youtube.com/shorts/oEYCirGPkpk)
 - [Why you should wait to do the 30 day free trial on Square Plus](https://www.youtube.com/shorts/qah2GfvOSiM)
 - [How to add a mobile business to Square | 2026 Square Tutorial](https://www.youtube.com/shorts/sLR39gHmwNE)
 - [Unlock more value from your Square account before you hit &quot;Start Free Trial&quot;](https://www.youtube.com/shorts/m-F0aOzGR7k)
-- [Square Cafe Setup Day 1: Account, Dashboard &amp; Location | Startup Diaries Series for Non-Techies](https://www.youtube.com/watch?v=HjA_q0cWNHQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
