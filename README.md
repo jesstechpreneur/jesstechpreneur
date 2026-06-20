@@ -47,7 +47,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [How to Create a Printer Profile in Square | 2026 Tutorial](https://www.youtube.com/shorts/V5OEOq5gxVE)
+- [How to Create a Printer Profile in Square | 2026 Square Tutorial](https://www.youtube.com/shorts/V5OEOq5gxVE)
 - [What is needed to add my business information to Square for my LLC, corporation or Non-profit?](https://www.youtube.com/shorts/A33YW9VxaKE)
 - [How to Reset Ticket Order Numbers Every Day | 2026 Square Tutorial](https://www.youtube.com/shorts/oEYCirGPkpk)
 - [Why you should wait to do the 30 day free trial on Square Plus](https://www.youtube.com/shorts/qah2GfvOSiM)
