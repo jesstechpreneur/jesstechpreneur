@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How can I easily find something in Square? | Square AI | 2026 Tutorial](https://www.youtube.com/shorts/k0ZlHiF470o)
 - [How to Have Order Tickets Reset Every Day in Square | 2026 Square Tutorial](https://www.youtube.com/shorts/6Qq0VkaFAlQ)
 - [How to choose a category when starting a Square account](https://www.youtube.com/shorts/qfRDtgT39cU)
 - [How to get $1,000 in Free processing without Referrals in Square](https://www.youtube.com/shorts/PzCvDAOiu-k)
 - [How to manage Uber Eats/ DoorDash / Grubhub from Square without other accounts](https://www.youtube.com/shorts/TqEHGA6OFiQ)
-- [How to Create a Printer Profile in Square | 2026 Square Tutorial](https://www.youtube.com/shorts/V5OEOq5gxVE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
