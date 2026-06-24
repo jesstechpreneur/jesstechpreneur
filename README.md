@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to add items to Square | Import items &amp; Fix errors | Square Tutorial 2026](https://www.youtube.com/watch?v=Zjt8OgvV3vU)
 - [How to add a register image to Square POS | 2026 Square Tutorial](https://www.youtube.com/shorts/qHb1J4zYJQA)
 - [Square Cafe Setup Day 2: Categories, Modifiers &amp; Menus | Startup Diaries](https://www.youtube.com/watch?v=xymxf9NYuhM)
 - [How can I easily find something in Square? | Square AI | 2026 Tutorial](https://www.youtube.com/shorts/k0ZlHiF470o)
 - [How to Have Order Tickets Reset Every Day in Square | 2026 Square Tutorial](https://www.youtube.com/shorts/6Qq0VkaFAlQ)
-- [How to choose a category when starting a Square account](https://www.youtube.com/shorts/qfRDtgT39cU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
