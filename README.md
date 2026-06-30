@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to Set Up Online Ordering in Square | Startup Diaries Day 3 | Square Tutorial](https://www.youtube.com/watch?v=_vW4Oj9LnPU)
 - [How to get notified from Square when the service is disrupted? | 2026 Square Tutorial](https://www.youtube.com/shorts/p7cOnWLuGsc)
 - [How to use Square&#39;s new point of sale fulfillment method | 2026 Square Tutorial](https://www.youtube.com/shorts/yxzoMy2Eots)
 - [How to add a credit card surcharge to Square | 2026 Square Tutorial](https://www.youtube.com/shorts/hnpDEMlrgCA)
 - [How to Bulk Import Items in Square POS &lpar;Step-by-Step&rpar;| Square Tutorial 2026](https://www.youtube.com/watch?v=Zjt8OgvV3vU)
-- [How to add a register image to Square POS | 2026 Square Tutorial](https://www.youtube.com/shorts/qHb1J4zYJQA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
