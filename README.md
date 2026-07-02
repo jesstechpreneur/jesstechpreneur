@@ -51,7 +51,7 @@
 - [How to get notified from Square when the service is disrupted? | 2026 Square Tutorial](https://www.youtube.com/shorts/p7cOnWLuGsc)
 - [How to use Square&#39;s new point of sale fulfillment method | 2026 Square Tutorial](https://www.youtube.com/shorts/yxzoMy2Eots)
 - [How to add a credit card surcharge to Square | 2026 Square Tutorial](https://www.youtube.com/shorts/hnpDEMlrgCA)
-- [How to Bulk Import Items in Square POS &lpar;Step-by-Step&rpar;| Square Tutorial 2026](https://www.youtube.com/watch?v=Zjt8OgvV3vU)
+- [How to Bulk Import Items in Square &lpar;Step-by-Step&rpar;| Square Tutorial 2026](https://www.youtube.com/watch?v=Zjt8OgvV3vU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
