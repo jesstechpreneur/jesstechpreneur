@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Did you know you can send promotions to your Customers from Square?](https://www.youtube.com/shorts/yfQ0-TbPxhY)
 - [Navigating Square Loyalty for New Users](https://www.youtube.com/shorts/o4g6ZKIbWoc)
 - [How to use Square Loyalty with Square Plus | Startup Diaries for Cafes | Day 5](https://www.youtube.com/watch?v=XdK6mhI3MnA)
 - [How to Build your Square Online Website | Day 4 of the Startup Diaries for Cafes](https://www.youtube.com/watch?v=EHrXeAeIw-E)
 - [How to Set Up Online Ordering in Square | Startup Diaries Day 3 | Square Tutorial](https://www.youtube.com/watch?v=_vW4Oj9LnPU)
-- [How to get notified from Square when the service is disrupted? | 2026 Square Tutorial](https://www.youtube.com/shorts/p7cOnWLuGsc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
