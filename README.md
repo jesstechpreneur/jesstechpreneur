@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to Launch your Food Business on Square | Step by Step 3 HOUR Masterclass](https://www.youtube.com/watch?v=SYwZZ8gvQsQ)
 - [Branded Email for Setting Up Square Account the first time](https://www.youtube.com/shorts/MaQjBn9OCd0)
 - [Did you know you can send promotions to your Customers from Square?](https://www.youtube.com/shorts/yfQ0-TbPxhY)
 - [Navigating Square Loyalty for New Users](https://www.youtube.com/shorts/o4g6ZKIbWoc)
 - [How to use Square Loyalty with Square Plus | Startup Diaries for Cafes | Day 5](https://www.youtube.com/watch?v=XdK6mhI3MnA)
-- [How to Build your Square Online Website | Day 4 of the Startup Diaries for Cafes](https://www.youtube.com/watch?v=EHrXeAeIw-E)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
