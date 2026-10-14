@@ -47,11 +47,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to Setup Shop Profile on Shopify | Beginners Step by Step Guide](https://www.youtube.com/watch?v=K-KwEKMM7HQ)
 - [How to use the new Square POS Grid | 2026 Square Tutorial | Vol12 Square Release Notes](https://www.youtube.com/watch?v=Ew1H4kmn0vY)
 - [How to Launch your Food Business on Square | Step by Step 3 HOUR Masterclass](https://www.youtube.com/watch?v=SYwZZ8gvQsQ)
 - [Branded Email for Setting Up Square Account the first time](https://www.youtube.com/shorts/MaQjBn9OCd0)
 - [Did you know you can send promotions to your Customers from Square?](https://www.youtube.com/shorts/yfQ0-TbPxhY)
-- [Navigating Square Loyalty for New Users](https://www.youtube.com/shorts/o4g6ZKIbWoc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jesstechpreneur)
