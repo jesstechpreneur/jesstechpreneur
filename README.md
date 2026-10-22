@@ -47,7 +47,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Shopify Launch 101 for Non-Techies | Part 1: Learning the Dashboard and Configure Store Settings](https://www.youtube.com/watch?v=jY7vvkMHBe8)
+- [How to Launch a Shopify Store | Part 1: Learning the Dashboard and Configure Store Settings](https://www.youtube.com/watch?v=jY7vvkMHBe8)
 - [How to Create a Discount for a Specific Customer Group in Shopify](https://www.youtube.com/watch?v=SxGgKErhvz4)
 - [How to Setup Shop Profile on Shopify | Beginners Step by Step Guide](https://www.youtube.com/watch?v=K-KwEKMM7HQ)
 - [How to use the new Square POS Grid | 2026 Square Tutorial | Vol12 Square Release Notes](https://www.youtube.com/watch?v=Ew1H4kmn0vY)
