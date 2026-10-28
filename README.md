@@ -45,16 +45,6 @@
 
 [ ![Skill Share](https://img.shields.io/badge/Skill%20share-002333?style=for-the-badge&logo=skillshare&logoColor=00FF84)][skillshare]
 
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [How to Launch a Shopify Store | Part 1: Learning the Dashboard and Configure Store Settings](https://www.youtube.com/watch?v=jY7vvkMHBe8)
-- [How to Create a Discount for a Specific Customer Group in Shopify](https://www.youtube.com/watch?v=SxGgKErhvz4)
-- [How to Setup Shop Profile on Shopify | Beginners Step by Step Guide](https://www.youtube.com/watch?v=K-KwEKMM7HQ)
-- [How to use the new Square POS Grid | 2026 Square Tutorial | Vol12 Square Release Notes](https://www.youtube.com/watch?v=Ew1H4kmn0vY)
-- [How to Launch your Food Business on Square | Step by Step 3 HOUR Masterclass](https://www.youtube.com/watch?v=SYwZZ8gvQsQ)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/jesstechpreneur)
 
 <br />
 
